@@ -12,26 +12,4 @@ I specialize in **Excel, SQL, Python, and Power BI**, with a strong ability to t
 ## 🛠️ Skills & Tools  
 - **Programming & Analysis:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL  
 - **Visualization:** Power BI, Excel (Pivot Tables, VBA), Tableau  
-- **Data Handling:** Data Cleaning, ETL, Exploratory Data Analysis  
-- **Other Tools:** GitHub, Jupyter Notebook, MS Office  
-
-## 📂 Portfolio Projects  
-
-### 🔹 Dashboards  
-- [Retail Sales Dashboard (Excel)](./Portfolio/Dashboards/Retail_Sales_Dashboard_Branded.xlsx)  
-  *Interactive Excel dashboard with KPIs, sales trends, and category analysis.*  
-
-### 🔹 Jupyter Notebooks  
-- [Customer Churn Analysis](./Portfolio/Notebooks/churn_notebook_executed.ipynb)  
-  *Python analysis of customer churn with visual insights and business recommendations.*  
-
-### 🔹 Sample Data  
-- [Customer Dataset](./Portfolio/Data/sample_customer_data.csv)  
-  *Cleaned dataset used for churn analysis and dashboard examples.*  
-
-## 🌟 Key Stats  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Punitsah34&layout=compact&theme=tokyonight)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Punitsah34&show_icons=true&theme=tokyonight)  
-
----  
-📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/punitsah8615084/) | [Email](mailto:punitsahg34@gmail.com)  
+- **Data Handling:** D
